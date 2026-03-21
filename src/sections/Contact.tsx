@@ -33,7 +33,7 @@ export default function Contact() {
                   <div>
                     <p className="text-sm text-white/40 uppercase tracking-widest">{link.name}</p>
                     <p className="text-sm font-medium group-hover:text-primary transition-colors">
-                      {link.name === 'Email' ? 'elitewarrior694@gmail.com' : `@gaurav-mishra`}
+                      {link.name === 'Email' ? 'elitewarrior694@' : `@gaurav-mishra`}
                     </p>
                   </div>
                 </a>
