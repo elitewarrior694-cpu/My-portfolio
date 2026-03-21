@@ -109,7 +109,7 @@ export const SOCIAL_LINKS = [
   },
   {
     name: "Email",
-    url: "mailto:gaurav@example.com",
+    url: "mailto:elitewarrior694@gmail.com",
     icon: Mail
   }
 ];
