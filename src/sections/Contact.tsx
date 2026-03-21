@@ -32,7 +32,7 @@ export default function Contact() {
                   </div>
                   <div>
                     <p className="text-sm text-white/40 uppercase tracking-widest">{link.name}</p>
-                    <p className="text-sm font-medium group-hover:text-primary transition-colors">
+                    <p className="text-lg font-medium group-hover:text-primary transition-colors">
                       {link.name === 'Email' ? 'elitewarrior694@' : `@gaurav-mishra`}
                     </p>
                   </div>
