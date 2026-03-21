@@ -54,7 +54,7 @@ export const PROJECTS = [
       "Predicts stock prices on custom datasets"
     ],
     tech: ["Python", "TensorFlow", "Flask", "API Integration"],
-    image: "https://images.unsplash.com/photo-1611974714851-eb6051618826?auto=format&fit=crop&q=80&w=800"
+    image: "https://unsplash.com/photos/a-screenshot-of-a-video-game-3r8rcSy0Ffg"
   },
   {
     id: 2,
