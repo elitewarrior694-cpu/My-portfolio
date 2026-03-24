@@ -101,5 +101,15 @@ export const SOCIAL_LINKS = [
     name: "Email",
     url: "mailto:elitewarrior694@gmail.com",
     icon: Mail
+  },
+  {
+    name: "WhatsApp",
+    url: "https://wa.me/917050101381",
+    icon: Smartphone
+  },
+  {
+    name: "Discord",
+    url: "https://discord.com/users/uzi03523",
+    icon: Cpu
   }
 ];
