@@ -98,16 +98,6 @@ export const PROJECTS = [
 
 export const SOCIAL_LINKS = [
   {
-    name: "GitHub",
-    url: "https://github.com/your-username",
-    icon: Github
-  },
-  {
-    name: "LinkedIn",
-    url: "https://linkedin.com/in/your-username",
-    icon: Linkedin
-  },
-  {
     name: "Email",
     url: "mailto:elitewarrior694@gmail.com",
     icon: Mail
